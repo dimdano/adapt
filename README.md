@@ -52,7 +52,7 @@ Optional:
 
 ## References
 
-The repo is a re-iplementation of AdaPT framework and new features will be added shortly.
+The repo is a re-implementation of AdaPT framework and new features will be added shortly.
 
 #### Publication
 
