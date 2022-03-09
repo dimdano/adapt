@@ -62,7 +62,7 @@ If you use any part of this work, we would love to hear about it and would very 
 @article{dimdano2022adapt,
   author =       "Dimitrios, Danopoulos and Georgios, Zervakis and Kostas, Siozios and Dimitrios, Soudris and Jörg, Henkel",
   title =        "AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch",
-  journal =   "arXiv preprint: 	arXiv:2203.04071)",
+  journal =   "arXiv preprint: 2203.04071",
   year =         "2022",
 }
 ```
