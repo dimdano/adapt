@@ -45,10 +45,13 @@ Run the following commands to get started:
 Then copy the jupyter link into a browser and head over the examples folder to run the notebooks
 
 Optional:
-* You can use the provided tool ```LUT_convert.ipynb``` to create the C header file for your custom approximate multiplier  <br />
- **important**: only 8-bit signed multipliers are supported at the moment. So the C header files must include a 256x256 array.
 * We provide a link with several model weights to test them in the example notebooks. <br />
  You must save them inside ```examples/models/state_dicts/``` folder. [[link]](https://drive.google.com/drive/folders/1HtxlPWGXG6svdHAs197uIirt0yHLo_tC?usp=sharing)
+
+### Using custom multipliers 
+* You must use the provided tool [LUT_convert.ipynb](tools/LUT_convert.ipynb) to create a C header file of your custom approximate multiplier.  <br />
+ Then you just place it inside the ```adapt/cpu-kernels/axx_mults``` folder. Run the example notebooks to load and evaluate it. <br /> <br />
+ **important**: only 8-bit signed multipliers are supported at the moment. So the C header files must include a 256x256 array.
 
 ## References
 
