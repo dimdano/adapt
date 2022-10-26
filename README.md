@@ -59,15 +59,18 @@ The repo is a re-implementation of AdaPT framework and new features will be adde
 
 #### Publication
 
-If you use any part of this work, we would love to hear about it and would very much appreciate a citation [[arxiv link]](https://arxiv.org/abs/2203.04071):
+If you use any part of this work, we would love to hear about it and would very much appreciate a citation [[paper link]](https://ieeexplore.ieee.org/document/9913212):
 
 ```
-@article{dimdano2022adapt,
-  author =       "Dimitrios, Danopoulos and Georgios, Zervakis and Kostas, Siozios and Dimitrios, Soudris and Jörg, Henkel",
-  title =        "AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch",
-  journal =      "arXiv preprint: 2203.04071",
-  year =         "2022",
-}
+@ARTICLE{9913212,
+  author={Danopoulos, Dimitrios and Zervakis, Georgios and Siozios, Kostas and Soudris, Dimitrios and Henkel, Jörg},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
+  title={AdaPT: Fast Emulation of Approximate DNN Accelerators in PyTorch}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCAD.2022.3212645}}
 ```
 #### Acknowledgements
 This work has been supported by the E.C. funded program SERRANO under H2020 Grant Agreement No: 101017168 and in parts by the German Research Foundation (DFG) project ``ACCROSS''  HE 2343/16-1.
